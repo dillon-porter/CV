@@ -2,8 +2,7 @@
 # DILLON PORTER
 I'm a Front-end Developer.
 
-
-##Education:
+###Education:
 
 College of the North Atlantic. September 2015 – June 2017.
 Earned, diploma in web development.
@@ -11,7 +10,7 @@ Earned, diploma in web development.
 Prince of Wales Collegiate. 2007- 2010.
 Earned, high school diploma.
 
-##Work Experience
+###Work Experience
 
 Blue river Media – Web Design, St. John's, NL – February 2012 – March 2012
 Prepare wire-frames and website layout
@@ -25,10 +24,10 @@ Developed a user-friendly architecture by programming site navigation, social me
 Validated site by testing JavaScript, CSS3, and HTML5 codes to ensuring cross-platform compatibility
 Maintained website by updating content, implementing new technology and monitoring performance
 
-##Programming Languages:
+###Programming Languages:
 - JavaScript
 	
-##Front-End:
+###Front-End:
 - HTML
 - CSS & Sass
 - Twitter Bootstrap
