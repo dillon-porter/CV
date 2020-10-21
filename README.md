@@ -5,12 +5,12 @@ I'm a Front-end Developer.
 ## Education:
 
 ## College of the North Atlantic. September 2015 – June 2017.
-Earned, diploma in web development.
+- Earned, diploma in web development.
 
 ## Prince of Wales Collegiate. 2007- 2010.
-Earned, high school diploma.
+- Earned, high school diploma.
 
-## Work Experience
+## Work Experience:
 
 ## Blue river Media – Web Design, St. John's, NL – February 2012 – March 2012
 - Prepare wire-frames and website layout
