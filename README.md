@@ -26,8 +26,9 @@ I'm a Front-end Developer.
 
 ## Programming Languages:
 - JavaScript
+- PHP
 	
 ## Front-End:
 - HTML
 - CSS & Sass
-- Twitter Bootstrap
+- Bootstrap
